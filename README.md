@@ -1,3 +1,4 @@
+```mermaid
 graph TD;
     A{Alarm Rings};
     A --> B{Is it the weekend?};
@@ -10,3 +11,4 @@ graph TD;
     F -->|Yes, bills are real| G[Okay, fine. Coffee first.];
     F -->|No, I'm independently wealthy| H(Go back to sleep, dream of a world without alarms);
     G --> I((Become a functional human... eventually));
+```
